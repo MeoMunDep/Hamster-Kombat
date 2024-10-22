@@ -39,7 +39,7 @@ To get started with the bot, follow these steps:
 }
 ```
 
-### 2. `datas.txt` 🗂️ -
+### 2. `datas.txt` 🗂️ - Token >>> Get it here: [Link](https://t.me/KeoAirDropFreeNe/257/6626)
 
 ```txt
 17...
