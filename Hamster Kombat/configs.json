@@ -1,1 +1,7 @@
-{ "limit": 1000, "upgrade": true, "maxPrice": 5, "countdown": 300 }
+{
+  "limit": 100,
+  "upgrade": true,
+  "maxPrice": 5000,
+  "countdown": 300,
+  "delayEachAccount": [1, 81]
+}
