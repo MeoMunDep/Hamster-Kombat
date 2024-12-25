@@ -38,10 +38,11 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "maxPrice": 5,
-  "limit": 5, //number of accounts run 1 a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "limit": 100,
+  "upgrade": true,
+  "maxPrice": 5000,
+  "countdown": 300,
+  "delayEachAccount": [1, 81]
 }
 ```
 
