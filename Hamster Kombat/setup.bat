@@ -95,7 +95,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd "hamster kombat" && node bot
+node meomundep
 pause
 goto MENU
 

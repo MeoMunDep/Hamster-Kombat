@@ -46,7 +46,7 @@ To get started with the bot, follow these steps:
 }
 ```
 
-### 2. `datas.txt` 🗂️ - Token >>> Get it here: [Link](https://t.me/KeoAirDropFreeNe/257/6626)
+### 2. `datas.txt` 🗂️ - Token >>> Get it here: [Link](https://t.me/KeoAirDropFreeNee/1269)
 
 ```txt
 17...
